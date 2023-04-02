@@ -1,5 +1,5 @@
 <!-- Read Me for everything I have learned so far -->
-<h1>Summary of What I Learned</p>
+<h1>Summary of What I Learned</h1>
 <body>
 <p>In Foundtain recipes I have learned about more functions that can be applied in the terminal/CLI. Additionally I have learned about HTML boilerplate and the different elements.</p>
 </body>
@@ -13,7 +13,8 @@
     <li>Reviewing changes made to code. For example: "Git Status"</li>
     <li>Opening code directly into VSCode by using the shortcut: "code ."</li>
     <li>Adding changes to the stage/quue by using : "Git Add"</li>
-    <li><p>Commiting changes by using "git commit -m" and using conventional commit templates. This helps others understand what changes occured in the code.</p></li>
+    <li>Commiting changes by using "git commit -m"</li> 
+    <li>Using conventional commit templates.</li>
 
 <h2>HTML</h2>
 <body>

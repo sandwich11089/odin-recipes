@@ -5,15 +5,20 @@
 </body>
 
 <h2>GitHub</h2>
+<body>
 <p>In Git Hub, I learned the following:</p>
+</body>
 <ol><strong>Repositories</strong></ol>
     <li>Creating a repository through Github and adding it to the local machine.</li>
     <li>Reviewing changes made to code. For example: "Git Status"</li>
     <li>Opening code directly into VSCode by using the shortcut: "code ."</li>
     <li>Adding changes to the stage/quue by using : "Git Add"</li>
-    <li>Commiting changes by using "git commit -m" and using conventional commit templates. This helps others understand what changes occured in the code.</li>
+    <li><p>Commiting changes by using "git commit -m" and using conventional commit templates. This helps others understand what changes occured in the code.</p></li>
 
+<h2>HTML</h2>
+<body>
 <p>For the HTML section, I learned about the boiler plate and the following elements:</p>
+</body>
 <ul><strong>HTML</strong></ul>
     <li>HTML Boilerplate</li>
     <ul>
